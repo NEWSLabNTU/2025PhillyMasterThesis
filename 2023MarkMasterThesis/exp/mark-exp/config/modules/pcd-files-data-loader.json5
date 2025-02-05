@@ -1,5 +1,0 @@
-{
-    "pointcloud_dir": "../../../../data/pcd-files-lidar1",
-    "num_pointcloud_frames": "7500",
-    "amqp_producer": "../connects/amqp-nuscenes-data-loader.json",
-}
