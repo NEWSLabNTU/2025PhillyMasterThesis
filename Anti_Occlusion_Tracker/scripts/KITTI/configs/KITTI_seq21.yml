@@ -1,0 +1,20 @@
+##EVALUATION CONFIG
+# ------------------- Dataset Name -------------------------
+description                  : KITTI
+# ------------------- Path Options -------------------------
+gt_path                      : "./label/" 
+calib_path                   : "../../data/KITTI/tracking/training/calib/"
+trk_path                     : "../../data/track_exp/KITTI/exp/label"
+out_path                     : "../../data/track_exp/KITTI/exp/" 
+exp_name                     : eval
+# ------------------- Eval Options -------------------------
+iou                          : 3D
+threshold                    : [0.25,0.5]
+class_name                   : ['car','cyclist']
+gt_format                    : Wayside
+trk_format                   : Wayside
+num_hypo                     : 1
+max_occlusion                : 4
+max_truncation               : 2 #0,1,2
+eval_seq                     : [21]
+fov_filter                   : False
