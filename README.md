@@ -2,13 +2,13 @@
 ## Repo Structure
 2025PhillyMasterThesis
 
-├── Anti_Occlusion_Tracker
+├── Anti_Occlusion_Tracker (Tracking)
 
-├── philly_utils
+├── philly_utils (Utils like file conversion)
 
-├── Point-MAE
+├── Point-MAE (Point cloud reconstruct)
 
-├── 3D-Detection-Tracking-Viewer
+├── 3D-Detection-Tracking-Viewer (Track visualizer)
 
 ## Data & Procedure
 **Data**
