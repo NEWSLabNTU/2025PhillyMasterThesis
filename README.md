@@ -1,4 +1,4 @@
-# Thesis ReadME Docker
+# ReadME
 ## Repo Structure
 2025PhillyMasterThesis
 
@@ -31,7 +31,7 @@
 * P6. Evaluation,`Anti_Occlusion_Tracker/scripts/KITTI/evaluate.py` D6+D7->D8
 * P7. Tracking Visualizer,`3D-Detection-Tracking-Viewer/tracking_viewer.py` D1+bbox label(D2/D6/D7)->visualize
 
-## Installation
+## Installation (Docker)
 ### Repos
 ```
 git clone git@github.com:NEWSLabNTU/2025PhillyMasterThesis.git
