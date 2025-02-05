@@ -23,14 +23,9 @@
 ## Installation
 ### Repos
 ```
-mkdir thesis
-cd thesis
-git clone git@github.com:philly12399/Anti_Occlusion_Tracker.git
-git clone git@github.com:philly12399/Point-MAE.git
-git clone git@github.com:philly12399/philly_utils.git
-git clone git@github.com:philly12399/3D-Detection-Tracking-Viewer.git
+git clone git@github.com:NEWSLabNTU/2025PhillyMasterThesis.git
 ```
-get ${thesis_dir}
+get ${thesis_dir}: `./2025PhillyMasterThesis`
 ### Data
 ${data_dir}: `nas/archive/MasterThesis/2025/philly/data`
 `data/KITTI_tracking/training/velodyne`(D1): 20 kitti sequences (0~20) + 1 Wayside pingtung sequence (0021)
