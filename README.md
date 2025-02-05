@@ -1,4 +1,14 @@
 # Thesis ReadME Docker
+## Repo Structure
+2025PhillyMasterThesis
+├── Anti_Occlusion_Tracker
+
+├── philly_utils
+
+├── Point-MAE
+
+├── 3D-Detection-Tracking-Viewer
+
 ## Data & Procedure
 **Data**
 * D1. Pointcloud pcd (kitti format) 
